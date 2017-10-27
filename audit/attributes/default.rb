@@ -85,6 +85,6 @@ default['audit']['profiles'] = [
   
     {
 		name: 'wannacry-exploit',
-		git: 'https://github.com/adamleff/inspec-profile-wannacry-exploit.git'
+		git: 'https://github.com/sysgain/inspec-profile-wannacry-exploit.git'
 	}
 	]
